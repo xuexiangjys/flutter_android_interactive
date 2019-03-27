@@ -1,0 +1,2 @@
+# flutter_android_interactive
+演示如何在android现有项目中集成flutter项目，进行混合开发
